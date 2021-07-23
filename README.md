@@ -1,3 +1,6 @@
+# 另外可参考：https://github.com/zhangke200377/you2php-heroku/
+
+# 说明
 **为了您一次能安装成功，请按照以下步骤逐步操作：**
 > 1.点击fork这个项目。操作成功后跳转到您的you2php项目页面。
 
