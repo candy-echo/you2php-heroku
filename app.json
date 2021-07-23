@@ -3,7 +3,7 @@
   "description": "A free and open-source youtube video proxy script[Written in PHP]",
   "website": "https://you2php.github.io/",
   "repository": "https://github.com/You2php/you2php",
-  "success_url": "/install.php",
+  "success_url": "/index.php",
   "env":{
     "APIKEY":{
       "description": "Youtube API V3 KEY",
