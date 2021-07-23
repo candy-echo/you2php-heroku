@@ -17,7 +17,8 @@
 1. Fork 项目<br>
 在当前页面点击右上角的 Fork 将项目拷贝至自己的 Github 账号下。<br>
 2. 登录 heroku<br>
-<a href="https://dashboard.heroku.com/apps">点我跳转</a><br>
+~~<a href="https://dashboard.heroku.com/apps">点我跳转</a><br>~~
+[![Deploy to Heroku](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy)
 3. 新建 app<br>
 在 heroku 控制台页面点击 右上角的 New 新建一个 App, App 名称将作为网站域名。<br>
 4. 关联 Github<br>
