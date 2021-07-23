@@ -1,3 +1,7 @@
+# 另外可参考：https://github.com/zhangke200377/you2php-heroku/
+
+
+
 # you2php-heroku
 
 ## YouTube 镜像网站, 实现免翻墙访问。
