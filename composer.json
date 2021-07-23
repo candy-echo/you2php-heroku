@@ -1,6 +1,6 @@
 {
   "require": {
-    "php": "7.1.26",
+    "php": "8.0.8",
     "ext-gd": "*",
     "ext-mbstring": "*",
     "ext-sqlite3": "*",
